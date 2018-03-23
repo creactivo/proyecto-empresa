@@ -17,7 +17,7 @@ body {
   background-color: #f2f2f2; }
 
 p {
-  position: absolute;
+  position: fixed;
   top: 80%;
   margin-top: 50px;
   font-family: "Cabin", sans-serif;
@@ -32,7 +32,7 @@ p {
   background: #3863A7 -webkit-linear-gradient(transparent 0%, transparent 50%, #000 50%, #000 100%);
   background: #3863A7 -o-linear-gradient(transparent 0%, transparent 50%, #000 50%, #000 100%);
   background: #3863A7 linear-gradient(transparent 0%, transparent 50%, #000 50%, #000 100%);
-  position: absolute;
+  position: fixed;
   top: 75%;
   width: 34px;
   height: 65px;

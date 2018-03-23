@@ -6,8 +6,9 @@ canvas{ display: block; vertical-align: bottom;}
 	position:absolute;
 	width: 100%;
 	height: 100%;
-	background-color: #f2f2f2;
-	background-image: url("");
+	background-image: radial-gradient(ellipse
+		,#fff 0%, rgba(0, 0, 255, 0) 50%, #3863a759 95%);
+	}
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 50% 50%;

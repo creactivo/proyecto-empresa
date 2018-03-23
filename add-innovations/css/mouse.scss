@@ -52,7 +52,7 @@ p {
 
 .mouse {
   @include bgGradient;
-  position: absolute;
+  position: fixed;
   top: 75%;
   width: $widthMouse;
   height: $heightMouse;
